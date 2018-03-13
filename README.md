@@ -1,2 +1,2 @@
 # maxcast-orchestrator
-Orchastratic server for MaxCast receivers
+Orchastration server for MaxCast receivers
